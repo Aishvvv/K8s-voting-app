@@ -56,4 +56,4 @@ spec:
         storageClassName: gp3
         resources:
           requests:
-            storage: 0.5Gi
+            storage: 1Gi
